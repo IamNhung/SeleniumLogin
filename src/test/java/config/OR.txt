@@ -1,0 +1,6 @@
+# Locators for login page
+btn_Submit=/html/body/form/table/tbody/tr[6]/td[2]/input
+btn_SignIn=//*[@id="SubmitLogin"]
+txt_email=/html/body/form/table/tbody/tr[5]/td[2]/input
+txt_username=//*[@id="email"]
+txt_password=//*[@id="passwd"]
